@@ -2,7 +2,7 @@ setuptools==39.1.0
 seqeval==0.0.5
 Keras==2.2.2
 tensorflow==1.10.0
-numpy==1.14.5
+numpy==1.22.0
 sklearn_crfsuite==0.3.6
 gensim==3.6.0
 python_crfsuite==0.9.6
